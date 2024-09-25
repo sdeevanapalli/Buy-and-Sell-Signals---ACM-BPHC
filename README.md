@@ -1,6 +1,3 @@
-Here is the content for your `README.md` file:
-
-```markdown
 # Stock Market Strategy Backtesting with SMA Crossover
 
 This project implements a strategy for analyzing and backtesting stock market data using the **Simple Moving Average (SMA)** crossover method. It uses **yfinance** for downloading historical stock data, and **matplotlib** for plotting the results and adding interactivity.
@@ -75,6 +72,3 @@ Buttons will appear in the plot window to enable or disable these features.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-You can copy and paste this content into a `README.md` file for your project!

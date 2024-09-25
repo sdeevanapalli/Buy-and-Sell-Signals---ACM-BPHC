@@ -7,6 +7,7 @@ import yfinance as yf  # For Downloading Stock Market Data
 # Function to download historical data of last 10 years.
 # Error handling included
 
+
 def download_data(symbol, start_date, end_date):
     try:
         data = yf.download(symbol, start=start_date, end=end_date)
